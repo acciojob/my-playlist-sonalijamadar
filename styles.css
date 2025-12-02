@@ -1,1 +1,40 @@
 /*  your css code here. If applicable */
+body{
+	background-color: rgb(204, 204, 204);
+}
+#songs{
+	border: 1px solid black;
+	width: 600px;
+	height: 150px;
+	border-radius: 10px;
+	background-color: white;
+	margin-left: 40px;
+	
+}
+#songs, ul, li{
+	list-style-type: none;
+	font-size: 17px;
+	text-align: left;
+}
+#songs, a{
+	text-decoration-line: none;
+	color: black;
+}
+.container{
+	border: 1px solid black;
+	width: 500px;
+	height: 550px;
+	background-color: rgb(255, 255, 255);
+	padding: 20px;
+	border-radius: 10px;
+	margin-left: 60px;
+}
+video{
+	width: 500px;
+}
+audio{
+	width: 500px;
+}
+.container, p{
+	font-weight: bold
+}
