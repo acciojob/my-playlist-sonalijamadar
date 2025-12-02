@@ -27,16 +27,22 @@ ul{
 	border: 1px solid black;
 	width: 500px;
 	height: 550px;
-	background-color: rgb(255, 255, 255);
+	background-color: white;
 	padding: 20px;
 	border-radius: 10px;
 	margin-left: 60px;
 }
 video{
 	width: 500px;
+	background-color: rgb(255, 255, 255);
+	padding: 0px;
+	border-radius: 0px;
 }
 audio{
 	width: 500px;
+	background-color: rgb(255, 255, 255);
+	padding: 0px;
+	border-radius: 0px;
 }
 .container, p{
 	font-weight: bold
